@@ -1,0 +1,53 @@
+body {   
+    background-color:#ffffff;
+}  
+.login{ 
+    background: #ffecd2;  
+    border-radius: 15px ; 
+    text-align: center; 
+    position: relative;
+    top: 100px;
+    width: 250px; 
+    height: 350px; 
+    margin: auto;
+    padding: 110px;
+          
+}   
+h2{    
+    color: black;
+    position: relative;
+    bottom: 110px; 
+    font-size: 19px;
+    text-shadow: 1px 1px 1px#142723; 
+      
+}  
+.Examiner{  
+    width: 255px;  
+    height: 50px;  
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 172, 22);
+    border-radius: 10px;
+    border: 3.5px solid rgb(190, 127, 10);
+    cursor: pointer;
+    font-size: 20px;
+    position: relative;
+    bottom: 60px;
+}  
+.OR{
+    position: relative;
+    bottom: 60px;
+}
+.Examiner:hover{
+    background-color:#f3a007;
+}
+#time {
+    font-weight: bold;
+    color: white;
+    background-color:#23463f;
+}
+#img{
+    height: 150px;
+    width: 100px;
+    position: relative;
+    bottom: 80px;
+}
